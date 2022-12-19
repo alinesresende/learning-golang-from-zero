@@ -24,6 +24,7 @@ func main() {
 	fmt.Println(u)
 
 	// Another way to use struct
+	// Is it possible to have struct inside struct
 	addressExample := address{"Street", 25}
 	userTwo := user{"Aline", 21, addressExample}
 	fmt.Println(userTwo)
@@ -33,5 +34,4 @@ func main() {
 	userThree := user{name: "Aline"}
 	fmt.Println(userThree)
 
-	// Is it possible to have struct inside struct
 }
