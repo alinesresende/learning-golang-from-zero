@@ -27,6 +27,7 @@ func dayOfTheWeek(number int) string {
 
 // Another way to assess the condition of the Switch
 // fallthrough: Transfers control to the next case, even if the current case may have matched.
+// In Golang it is not necessary to use the Break clause
 func dayOfTheWeekTwo(number int) string {
 	switch {
 	case number == 1:
