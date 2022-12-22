@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+// A recursive function is when one or more calls to itself are made within it.
+
 func fibonacci(position uint) uint {
 	if position <= 1 {
 		return position
@@ -10,7 +12,9 @@ func fibonacci(position uint) uint {
 }
 
 func main() {
-	position := uint(15)
-	fmt.Println(fibonacci(position))
+	position := uint(5)
 
+	for i := uint(0); i < position; i++ {
+		fmt.Println(fibonacci(i))
+	}
 }
