@@ -7,8 +7,7 @@ import (
 
 func main() {
 	// competition != parallelism
-	// In parallelism, tasks are executed at the same time.
-	// In concurrency, tasks may or may not be executed at the same time.
+	// Concurrency is basically the ability to handle multiple things at once while parallelism is the ability to handle multiple things at the same time.
 
 	write("Hi, world!")
 }
