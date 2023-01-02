@@ -1,3 +1,6 @@
 go 1.19
 
-use ./mini-application
+use (
+	./competition
+	./mini-application
+)
