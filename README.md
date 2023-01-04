@@ -6,7 +6,12 @@
 
 :books: Learning path:
 
-▫️ Develop an social media application <br>
-▫️ Build both front-end and back-end using Golang <br>
-▫️ Build a highly robust and scalable API using best practices <br>
-▫️ Learn Golang fundamentals in depth
+```
+ ▪️  Develop an social media application 
+ 
+ ▪️  Build both front-end and back-end using Golang 
+ 
+ ▪️  Build a highly robust and scalable API using best practices 
+ 
+ ▪️  Learn Golang fundamentals in depth
+```
