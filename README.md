@@ -4,7 +4,7 @@
 
 🔹 Besides that, it also includes an introduction to HTML, CSS, Javascript, and Relational Databases.
 
-:books: Learning path:
+🔹 Learning path:
 
 ```
  ▪️  Develop an social media application 
