@@ -16,7 +16,7 @@ func main() {
 
 	fmt.Println("After the function starts executing")
 
-	for message := range channel {
+	for message := range channel { // receiving channel
 		fmt.Println(message)
 	}
 
