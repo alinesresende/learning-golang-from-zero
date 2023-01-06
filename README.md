@@ -4,7 +4,7 @@
 
 * The project addresses all the concepts of the Golang language for the development of a complete application.
 
-* Besides that, it also includes an introduction to HTML, CSS, javascript, and relational databases.
+* Besides that, it also includes an introduction to HTML, CSS, javascript, and relational databases
 
 * Learning path:
 
