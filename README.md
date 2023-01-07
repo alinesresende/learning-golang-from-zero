@@ -8,14 +8,12 @@
 
 * Learning path:
 
-```
-     🔹  Fundamentals and advanced concepts in Golang
- 
-     🔹  Develop an social media application 
- 
-     🔹  Create front-end and back-end using Golang 
- 
-     🔹  Build a highly robust and scalable API using best practices 
- 
-     🔹  Development of automated tests and relational databases – MySQL
-```
+    >  🔹  Fundamentals and advanced concepts in Golang
+    >
+    >  🔹 Develop an social media application 
+    >
+    >  🔹  Create front-end and back-end using Golang 
+    >
+    >  🔹  Build a highly robust and scalable API using best practices 
+    >
+    >  🔹  Development of automated tests and relational databases – MySQL
