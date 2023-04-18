@@ -18,4 +18,4 @@ Learning path:
   5️⃣ Development of automated tests and relational databases – MySQL
 ``` 
 
- Besides that, it also includes an introduction to ``HTML, CSS, javascript``, and relational databases.
+ Besides that, it also includes an introduction to ``HTML, CSS, javascript``, and ``relational databases``.
